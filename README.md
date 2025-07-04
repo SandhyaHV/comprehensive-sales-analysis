@@ -22,4 +22,4 @@ This project analyzes 12 months of retail sales data using Python, uncovering tr
 - **iPhones + Lightning Cables** often bought together
 
 ## Full Report
-For more details, check out the full [Project Summary PDF]([./docs/Project%20Summary.pdf)).
+For more details, check out the full [Project Summary PDF](https://github.com/SandhyaHV/comprehensive-sales-analysis/blob/87c730e98e45fddc401dfb28f40cdce1c1eb7d1f/docs/Project%20Summary.pdf).
